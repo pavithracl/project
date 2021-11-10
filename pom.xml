@@ -15,11 +15,12 @@
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
-<sonar.projectKey>suneetha-14_orderms
+<sonar.projectKey>pavithracl_project
 </sonar.projectKey>
-<sonar.organization>suneetha</sonar.organization>
-<sonar.host.url>https://sonarcloud.io/</sonar.host.url>
-<sonar.login>d44ac8f4f0cf291eaa290aa9c1aaf94fc0d03345</sonar.login>
+
+  <sonar.organization>pavithracl</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+<sonar.login>de2530507c00de9cba2c0029bf1bed6ad731e177</sonar.login>
 	</properties>
 	<dependencies>
 		<dependency>
